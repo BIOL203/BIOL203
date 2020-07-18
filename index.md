@@ -1,7 +1,10 @@
 ---
 
+title: Main Page
 
 ---
+
+# TOC
 
 1. TOC
 {:toc}
