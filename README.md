@@ -7,7 +7,8 @@
 
 ## Adding Pages to Website:
 * Add file and name it pagename.md
-* in \_config.yml, 
+* add a [yaml](https://jekyllrb.com/docs/front-matter/) header: 
+* in \_config.yml, add page to header_pages option to add page link in header
 
 
 ## Pages are formated in markdown
