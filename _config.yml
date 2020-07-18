@@ -21,4 +21,4 @@ include:
   - PULL_REQUEST_TEMPLATE.md
 
 header_pages:
-  - test.md
+  - Syllabus.md
