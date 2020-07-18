@@ -4,9 +4,6 @@ toc: true
 toc_levels: 1
 ---
 
-1. Table of Contents
-{:toc}
-
 
 # Test 1
 ### Test1.1
