@@ -3,10 +3,12 @@
 
 ## Files
 * index.md : Content for homepage
-* \_config.yml: basic settings, theme, sites title, how to structure links to posts, etc
+* \_config.yml: basic settings, theme, site title, how to structure links to posts, etc.
 
 ## Adding Pages to Website:
-* 
+* Add file
+* name it <pagename>.md
+* add content, page link automatically will appear on homepage
 
 
 ## Pages are formated in markdown
