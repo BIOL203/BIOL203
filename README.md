@@ -8,10 +8,10 @@
 ## Adding Pages:
 * Add file and name it pagename.md
 * Add a [yaml](https://jekyllrb.com/docs/front-matter/) header to the file
-* In \_config.yml, add page to header_pages option to add link in site header
-* If not added in \_config.yml, the page can also be accessed at https://biol203.github.io/BIOL203/pagename.html
+* In \_config.yml, add pagename.md to header_pages option to add a link in main site header
+* If you don't want the page in the main header (such as for individual labs) the page can also be accessed at https://biol203.github.io/BIOL203/pagename.html through links
 
-### Adding TOCs:
+## Adding TOCs:
 * At top of the documnet, add 
 ```
 1. TOC
