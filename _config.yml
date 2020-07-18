@@ -4,7 +4,8 @@ baseurl: "/BIOL203"
 
 # Build Settings
 theme: minima
-markdown: kramdown
+kramdown:
+  toc_levels: 1
 
 plugins:
   - jekyll-relative-links
