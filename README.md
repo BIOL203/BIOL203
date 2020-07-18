@@ -6,9 +6,8 @@
 * \_config.yml: basic settings, theme, site title, how to structure links to posts, etc.
 
 ## Adding Pages to Website:
-* Add file
-* name it pagename.md
-* add content, page link automatically will appear on homepage
+* Add file and name it pagename.md
+* in \_config.yml, 
 
 
 ## Pages are formated in markdown
