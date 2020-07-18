@@ -1,4 +1,6 @@
 ---
+
 title: Resources
 layout: page
+
 ---
