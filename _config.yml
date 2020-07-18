@@ -6,7 +6,6 @@ baseurl: "/BIOL203"
 
 # Build Settings
 theme: minima
-toc_levels: 1
 
 plugins:
   - jekyll-relative-links
