@@ -5,7 +5,7 @@ description: >
 baseurl: "/BIOL203"
 
 # Build Settings
-markdown: rmarkdown
+markdown: kramdown
 theme: minima
 
 plugins:
