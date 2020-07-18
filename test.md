@@ -1,3 +1,1 @@
-# Testing pages
-
-### Hello
+# Syllabus
