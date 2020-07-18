@@ -1,3 +1,13 @@
+# Site Settings
+title: Eukaryotic Microbiology
+description: >
+  UBC BIOL 203 2020
+baseurl: "/BIOL203"
+
+# Build Settings
+markdown: rmarkdown
+theme: minima
+
 plugins:
   - jekyll-relative-links
 relative_links:
@@ -12,5 +22,3 @@ include:
   - CONTRIBUTING.md
   - ISSUE_TEMPLATE.md
   - PULL_REQUEST_TEMPLATE.md
-
-theme: jekyll-theme-cayman
