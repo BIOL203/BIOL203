@@ -1,6 +1,6 @@
 ---
 title: BIOL 203
-
+toc_levels: 1
 ---
 
 1. Table of Contents
