@@ -1,9 +1,8 @@
 ---
 title: BIOL 203
-toc: true
-toc_levels: 1
 ---
 
+{{content}}: {% include toc.html html=content %}
 
 # Test 1
 ### Test1.1
