@@ -1,9 +1,7 @@
 ---
 layout: page
-title: Syll
+title: Syllabus
 permalink: /syllabus/
-toc_levels: 1
-
 ---
 
 # Hello
