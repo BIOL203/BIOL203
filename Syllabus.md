@@ -1,10 +1,8 @@
 ---
 layout: page
-title: Syllabus
+title: Syll
 permalink: /syllabus/
-output: 
-  toc: true
-  toc_depth: 1
+toc_levels: 1
 
 ---
 
