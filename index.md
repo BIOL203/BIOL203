@@ -1,7 +1,6 @@
 ---
 
-title: BIOL 203
-toc_levels: 1
+title: BIOL 203 2020
 
 ---
 
@@ -9,6 +8,9 @@ toc_levels: 1
 {:toc}
 
 # Test 1
+
 ### Test1.1
+{:.no_toc}
+
 
 # Test 2
