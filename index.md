@@ -2,7 +2,7 @@
 title: BIOL 203
 ---
 
-1.TOC
+1. TOC
 {:toc}
 
 # Test 1
