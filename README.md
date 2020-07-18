@@ -7,7 +7,7 @@
 
 ## Adding Pages to Website:
 * Add file
-* name it <pagename>.md
+* name it pagename.md
 * add content, page link automatically will appear on homepage
 
 
