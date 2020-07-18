@@ -1,4 +1,4 @@
-(Website) [https://biol203.github.io/BIOL203/]
+[Website] (https://biol203.github.io/BIOL203/)
 
 
 ## Files
