@@ -1,9 +1,12 @@
 ---
+
 title: BIOL 203
+toc_levels: 1
+
 ---
 
 1. TOC
-{:toc toc_levels=1}
+{:toc}
 
 # Test 1
 ### Test1.1
