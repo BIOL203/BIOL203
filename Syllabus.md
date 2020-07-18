@@ -1,7 +1,9 @@
 ---
 layout: page
-title: Test 
+title: Syllabus
 permalink: /syllabus/
+output: 
+  toc: true
 ---
 
 Hello
