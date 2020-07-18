@@ -3,7 +3,7 @@ title: BIOL 203
 
 ---
 
-* TOC
+1. Table of Contents
 {:toc}
 
 
