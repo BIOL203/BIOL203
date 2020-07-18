@@ -1,5 +1,6 @@
 ---
 title: BIOL 203
+toc: true
 toc_levels: 1
 ---
 
