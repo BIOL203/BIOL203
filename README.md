@@ -12,5 +12,5 @@
 
 
 ### Pages are formated in markdown:
- * https://www.markdownguide.org/tools/jekyll/
- * https://rstudio.com/wp-content/uploads/2015/02/rmarkdown-cheatsheet.pdf
+ * https://about.gitlab.com/handbook/markdown-guide/
+ * https://rstudio.com/wp-content/uploads/2015/02/rarkdown-cheatsheet.pdf
