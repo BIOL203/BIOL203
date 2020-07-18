@@ -5,7 +5,7 @@
 * index.md : Content for homepage
 * \_config.yml: basic settings, theme, site title, how to structure links to posts, etc.
 
-### Adding Pages to Website:
+### Adding Pages:
 * Add file and name it pagename.md
 * Add a [yaml](https://jekyllrb.com/docs/front-matter/) header to the file
 * in \_config.yml, add page to header_pages option to add page link in header
