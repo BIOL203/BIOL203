@@ -1,1 +1,4 @@
-## UBC BIOL 203 2020
+---
+title: BIOL 203
+
+---
