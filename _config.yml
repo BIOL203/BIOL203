@@ -3,9 +3,9 @@ title: Eukaryotic Microbiology
 baseurl: "/BIOL203"
 
 # Build Settings
+markdown: kramdown
 theme: minima
 kramdown:
-  auto_ids: false
   toc_levels: 1
 
 plugins:
