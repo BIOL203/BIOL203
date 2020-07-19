@@ -4,7 +4,7 @@
 ## Important Files:
 * index.md : Content for homepage
 * \_config.yml: basic settings, theme, site title, how to structure links to posts, etc.
-* \_include and \_layout files: HTML code for the theme layout. Defaults for this theme (minima) are [here](https://github.com/jekyll/minima), but if you copy and paste any file into this repo and edit locally, the local files will override the default
+* \_include and \_layout files: HTML code for the theme layout. Defaults for this theme (minima) are [here](https://github.com/jekyll/minima), but your HTML-savy, you can copy and paste any file into these folders and edit locally to override the default layout.
 
 ## Adding Pages:
 * Add file and name it pagename.md
